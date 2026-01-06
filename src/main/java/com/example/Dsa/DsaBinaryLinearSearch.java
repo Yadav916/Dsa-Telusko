@@ -1,5 +1,5 @@
 package com.example.Dsa;
-public class DsaApplication {
+public class DsaBinaryLinearSearch {
 
     public static void main(String[] args) {
         // SpringApplication.run(DsaApplication.class, args);
